@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fron-end_online_store/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/fron-end_online_store/static/js/main.e7b6c83a.chunk.js",
+    "main.js.map": "/fron-end_online_store/static/js/main.e7b6c83a.chunk.js.map",
+    "runtime-main.js": "/fron-end_online_store/static/js/runtime-main.6b9e42d3.js",
+    "runtime-main.js.map": "/fron-end_online_store/static/js/runtime-main.6b9e42d3.js.map",
+    "static/js/2.81bddbdb.chunk.js": "/fron-end_online_store/static/js/2.81bddbdb.chunk.js",
+    "static/js/2.81bddbdb.chunk.js.map": "/fron-end_online_store/static/js/2.81bddbdb.chunk.js.map",
+    "index.html": "/fron-end_online_store/index.html",
+    "precache-manifest.8a836a0a9724704a27a1078a64028704.js": "/fron-end_online_store/precache-manifest.8a836a0a9724704a27a1078a64028704.js",
+    "service-worker.js": "/fron-end_online_store/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/fron-end_online_store/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.81bddbdb.chunk.js.LICENSE.txt": "/fron-end_online_store/static/js/2.81bddbdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b9e42d3.js",
+    "static/js/2.81bddbdb.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e7b6c83a.chunk.js"
+  ]
+}
