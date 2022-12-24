@@ -1,13 +1,49 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Front-end Online Store
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+# Contexto
+Aplicação desenvolvida em grupo representando uma loja online, com diversas funcionalidades relevantes (busca com diversos critérios, carrinho de compras, avaliações, entre outras).
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Participaram do do grupo os colegas:
+*Julio Cesar Muchiutti [(GitHub);](https://github.com/juli0c3sar)
+*Paulo Eduardo de Sordi Gomes [(GitHub);](https://github.com/pauloeduardods)
+*Paulo Renan Almeida [(GitHub);](https://github.com/paulorenan)
+*Thiago de Oliveira [(GitHub);](https://github.com/ThDevTrader)
+
+O usuário poderá:
+* Buscar produtos por termos e categorias;
+* Adicionar e remover produtos de um carrinho de compras;
+* Visualizar detalhes sobre os produtos;
+* Ver e adicionar avaliações aos itens;
+* Realizar uma compra simulada.
+
+
+### Habilidades trabalhadas
+* Consumo de API;
+* Conceitos de React, como componentes e estados;
+* Uso do Kanban e conceitos de metodologias ágeis.
+
+## Técnologias usadas
+
+Front-end:
+> Desenvolvido usando: React, CSS3, HTML5, Javascript ES6.
+
+
+## Instalando Dependências
+
+> Frontend
+```bash
+cd src/
+npm install
+``` 
+## Executando a aplicação
+
+* Acesse a página via *GitHub Pages* clicando [aqui.](https://raffrasson.github.io/front-end_online_store)
+* Ou rode localmente executando:
+
+```bash
+npm start
+``` 
+
+## Notas e Referências
+A aplicação faz uso da API do Mercado Livre. Mais informações [aqui.](https://developers.mercadolivre.com.br/pt_br/api-docs-pt-br)
+
