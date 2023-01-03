@@ -4,7 +4,7 @@
 Aplicação desenvolvida em grupo representando uma loja online, com diversas funcionalidades relevantes (busca com diversos critérios, carrinho de compras, avaliações, entre outras).
 
 Participaram do do grupo os colegas:
-* Julio Cesar Muchiutti [(GitHub)](https://github.com/juli0c3sar)
+* Julio Cesar Muchiutti [(GitHub);](https://github.com/juli0c3sar)
 * Paulo Eduardo de Sordi Gomes [(GitHub);](https://github.com/pauloeduardods)
 * Paulo Renan Almeida [(GitHub);](https://github.com/paulorenan)
 * Thiago de Oliveira [(GitHub);](https://github.com/ThDevTrader)
