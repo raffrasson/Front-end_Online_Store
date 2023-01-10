@@ -7,7 +7,7 @@ Participaram do do grupo os colegas:
 * Julio Cesar Muchiutti [(GitHub);](https://github.com/juli0c3sar)
 * Paulo Eduardo de Sordi Gomes [(GitHub);](https://github.com/pauloeduardods)
 * Paulo Renan Almeida [(GitHub);](https://github.com/paulorenan)
-* Thiago de Oliveira [(GitHub);](https://github.com/ThDevTrader)
+* Thiago de Oliveira [(GitHub)](https://github.com/ThDevTrader)
 
 O usuário poderá:
 * Buscar produtos por termos e categorias;
